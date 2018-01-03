@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">News</string>
+    <string name="smila">Сміла</string>
+    <string name="cherkassy">Черкаси</string>
+    <string name="ukraine">Україна</string>
+    <string name="world">Світ</string>
+    <string name="notification">Сповіщення</string>
+</resources>

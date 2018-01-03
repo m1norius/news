@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "797608396266",
+    "firebase_url": "https://news-d3399.firebaseio.com",
+    "project_id": "news-d3399",
+    "storage_bucket": "news-d3399.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:797608396266:android:d08ff2902f195902",
+        "android_client_info": {
+          "package_name": "com.minorius.news"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "797608396266-fa7sm8lrpk9lsd491n37p9f5l10pqvt2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.minorius.news",
+            "certificate_hash": "539a18a440d2864b8232b3822b76795669edf716"
+          }
+        },
+        {
+          "client_id": "797608396266-o9ocfgmmiebglftfo5351uhur5qhl6k4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCc431_gaJTNwj3rkULYXmhW5dUMU7eWio"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "797608396266-o9ocfgmmiebglftfo5351uhur5qhl6k4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
