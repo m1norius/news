@@ -14,14 +14,20 @@
         android:theme="@style/AppTheme">
 
 
-        <activity android:name=".module.activity_module.MainActivity">
+        <activity
+            android:configChanges="orientation"
+            android:screenOrientation="portrait"
+            android:name=".module.activity_module.MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
 
-        <activity android:name=".module.description_module.DescriptionActivity">
+        <activity
+            android:configChanges="orientation"
+            android:screenOrientation="portrait"
+            android:name=".module.description_module.DescriptionActivity">
             <intent-filter>
                 <action android:name=".module.description_module.DescriptionActivity" />
                 <category android:name="android.intent.category.DEFAULT" />
